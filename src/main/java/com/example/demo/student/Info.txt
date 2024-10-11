@@ -1,0 +1,5 @@
+Student: Represents the student entity.
+StudentRepository: Handles database operations for the Student entity.
+StudentService: Contains the business logic to manage students.
+StudentController: Handles incoming HTTP requests and provides RESTful endpoints.
+StudentConfig: Provides configuration settings and bean definitions (if needed).
